@@ -1,7 +1,17 @@
 ### Hi there 👋
 
+😄 嗨喽，这是我的GiuHub主页。
+
+👯 一枚主职Java，副业前端的软件开发者。
+
+🔭 我的博客：https://lijunyi.xyz
+
+🔭 [科学上网](https://sockboom.cool/auth/register?affid=243907)
+
+
+
 <!--
-**LiJunYiV/LiJunYiV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LiJunYi2/LiJunYi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
